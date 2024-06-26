@@ -1,0 +1,21 @@
+Modelo workflow      90000003
+
+90000021
+
+Modelos workflow
+
+    90000003
+    90000018
+
+/nswe2
+
+ZOQM_QMSM
+
+SBWP - Caixa de entrada
+
+BUFFER:
+/$tab
+/$sync
+/swu_obuf
+/opftc
+/nswu3
